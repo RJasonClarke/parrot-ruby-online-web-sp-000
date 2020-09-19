@@ -1,7 +1,7 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
 def parrot
-  puts "Squawk!"
+  2.times {puts "Squawk!"}
 end
 
-puts parrot;
+
