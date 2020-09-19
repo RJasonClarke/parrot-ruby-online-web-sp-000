@@ -6,3 +6,4 @@ end
 
 def parrot
   print "Squawk!"
+end
