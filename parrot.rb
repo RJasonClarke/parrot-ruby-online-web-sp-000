@@ -3,5 +3,3 @@
 def parrot
   2.times {puts "Squawk!"}
 end
-
-
