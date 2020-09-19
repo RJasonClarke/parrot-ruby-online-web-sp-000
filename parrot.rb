@@ -3,3 +3,6 @@
 def parrot
   puts "Squawk!"
 end
+
+def parrot
+  print "Squawk!"
